@@ -1,13 +1,14 @@
 Class 2: Starting React
 
 Topic : 
--> React 
--> Unidirecttional
--> SPA 
--> Framework VS Library
--> MVC 
--> directory and commands using cmd
+1. React 
+2. Unidirecttional
+3. SPA 
+4. Framework VS Library
+5. MVC 
+6. directory and commands using cmd
 
+Code :
 1. Install react on particular folder npm install -g create-react-app
 2. Create React app by using npm or npx create-react-app appname
 3. Inside directory start react by using npm start
